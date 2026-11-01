@@ -1,0 +1,23 @@
+name: paper-trade
+on:
+  schedule:
+    - cron: "0 11 * * 1-5"   # 16:30 IST, Mon-Fri (after NSE closes)
+  workflow_dispatch: {}       # lets you press a "Run" button manually
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python bot.py paper
+      - name: Save results back to the repo
+        run: |
+          git config user.name "paper-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json trades.csv report.md || true
+          git diff --cached --quiet || (git commit -m "daily paper run" && git push)
