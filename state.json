@@ -1,0 +1,49 @@
+{
+ "cash": 1000000,
+ "positions": {},
+ "pending": [
+  {
+   "sym": "DIVISLAB.NS",
+   "side": "BUY",
+   "alloc": 100000.0
+  },
+  {
+   "sym": "KOTAKBANK.NS",
+   "side": "BUY",
+   "alloc": 100000.0
+  },
+  {
+   "sym": "ETERNAL.NS",
+   "side": "BUY",
+   "alloc": 100000.0
+  },
+  {
+   "sym": "WIPRO.NS",
+   "side": "BUY",
+   "alloc": 100000.0
+  },
+  {
+   "sym": "TRENT.NS",
+   "side": "BUY",
+   "alloc": 100000.0
+  },
+  {
+   "sym": "TATACONSUM.NS",
+   "side": "BUY",
+   "alloc": 100000.0
+  },
+  {
+   "sym": "POWERGRID.NS",
+   "side": "BUY",
+   "alloc": 100000.0
+  }
+ ],
+ "equity": [
+  [
+   "2026-10-30",
+   1000000
+  ]
+ ],
+ "last_date": "2026-10-30",
+ "trades": []
+}
