@@ -1,49 +1,76 @@
 {
- "cash": 1000000,
- "positions": {},
+ "cash": 303706.24719986424,
+ "positions": {
+  "DIVISLAB.NS": {
+   "qty": 10,
+   "entry": 9969.9825,
+   "stop": 9272.083724999999,
+   "date": "2026-11-03"
+  },
+  "KOTAKBANK.NS": {
+   "qty": 217,
+   "entry": 460.22999999999996,
+   "stop": 428.0138999999999,
+   "date": "2026-11-03"
+  },
+  "ETERNAL.NS": {
+   "qty": 289,
+   "entry": 345.5726938934326,
+   "stop": 321.3826053208923,
+   "date": "2026-11-03"
+  },
+  "WIPRO.NS": {
+   "qty": 504,
+   "entry": 198.099,
+   "stop": 184.23206999999996,
+   "date": "2026-11-03"
+  },
+  "TRENT.NS": {
+   "qty": 32,
+   "entry": 3044.5215,
+   "stop": 2831.404995,
+   "date": "2026-11-03"
+  },
+  "TATACONSUM.NS": {
+   "qty": 96,
+   "entry": 1030.5149999999999,
+   "stop": 958.3789499999998,
+   "date": "2026-11-03"
+  },
+  "POWERGRID.NS": {
+   "qty": 377,
+   "entry": 264.7823188934326,
+   "stop": 246.2475565708923,
+   "date": "2026-11-03"
+  }
+ },
  "pending": [
   {
-   "sym": "DIVISLAB.NS",
+   "sym": "DRREDDY.NS",
    "side": "BUY",
-   "alloc": 100000.0
+   "alloc": 100398.46948011826
   },
   {
-   "sym": "KOTAKBANK.NS",
+   "sym": "DLF.NS",
    "side": "BUY",
-   "alloc": 100000.0
+   "alloc": 100398.46948011826
   },
   {
-   "sym": "ETERNAL.NS",
+   "sym": "BHARTIARTL.NS",
    "side": "BUY",
-   "alloc": 100000.0
-  },
-  {
-   "sym": "WIPRO.NS",
-   "side": "BUY",
-   "alloc": 100000.0
-  },
-  {
-   "sym": "TRENT.NS",
-   "side": "BUY",
-   "alloc": 100000.0
-  },
-  {
-   "sym": "TATACONSUM.NS",
-   "side": "BUY",
-   "alloc": 100000.0
-  },
-  {
-   "sym": "POWERGRID.NS",
-   "side": "BUY",
-   "alloc": 100000.0
+   "alloc": 100398.46948011826
   }
  ],
  "equity": [
   [
    "2026-10-30",
    1000000
+  ],
+  [
+   "2026-11-03",
+   1003984.69
   ]
  ],
- "last_date": "2026-10-30",
+ "last_date": "2026-11-03",
  "trades": []
 }
