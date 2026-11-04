@@ -1,9 +1,9 @@
-# Paper report - 2026-11-03
+# Paper report - 2026-11-04
 
 ```
-Days simulated : 2 (~0.0 yrs)
-Strategy return: 0.4%   CAGR 65.0%   Max drawdown 0.0%
-Nifty50 buy&hold: 3.3%   (the bar your bot must beat)
+Days simulated : 3 (~0.0 yrs)
+Strategy return: 0.3%   CAGR 30.6%   Max drawdown -0.1%
+Nifty50 buy&hold: 3.9%   (the bar your bot must beat)
 ```
 
 ## Open positions
@@ -14,11 +14,11 @@ Nifty50 buy&hold: 3.3%   (the bar your bot must beat)
 - TRENT.NS: 32 @ 3044.52 (since 2026-11-03)
 - TATACONSUM.NS: 96 @ 1030.51 (since 2026-11-03)
 - POWERGRID.NS: 377 @ 264.78 (since 2026-11-03)
+- DRREDDY.NS: 73 @ 1360.68 (since 2026-11-04)
+- DLF.NS: 141 @ 708.35 (since 2026-11-04)
+- BHARTIARTL.NS: 48 @ 2061.33 (since 2026-11-04)
 
 ## Orders for tomorrow's open
-- BUY DRREDDY.NS
-- BUY DLF.NS
-- BUY BHARTIARTL.NS
 
 ## Last 10 trades
 none yet
