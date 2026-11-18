@@ -1,9 +1,9 @@
-# Paper report - 2026-11-16
+# Paper report - 2026-11-17
 
 ```
-Days simulated : 8 (~0.0 yrs)
-Strategy return: 4.7%   CAGR 325.6%   Max drawdown -0.3%
-Nifty50 buy&hold: 9.7%   (the bar your bot must beat)
+Days simulated : 9 (~0.0 yrs)
+Strategy return: 4.6%   CAGR 255.6%   Max drawdown -0.3%
+Nifty50 buy&hold: 10.1%   (the bar your bot must beat)
 ```
 
 ## Open positions
@@ -19,6 +19,7 @@ Nifty50 buy&hold: 9.7%   (the bar your bot must beat)
 - BHARTIARTL.NS: 48 @ 2061.33 (since 2026-11-04)
 
 ## Orders for tomorrow's open
+- SELL WIPRO.NS
 
 ## Last 10 trades
 none yet
