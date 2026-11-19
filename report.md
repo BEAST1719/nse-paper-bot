@@ -1,16 +1,16 @@
-# Paper report - 2026-11-17
+# Paper report - 2026-11-18
 
 ```
-Days simulated : 9 (~0.0 yrs)
-Strategy return: 4.6%   CAGR 255.6%   Max drawdown -0.3%
-Nifty50 buy&hold: 10.1%   (the bar your bot must beat)
+Days simulated : 10 (~0.0 yrs)
+Strategy return: 4.4%   CAGR 196.2%   Max drawdown -0.3%
+Nifty50 buy&hold: 9.4%   (the bar your bot must beat)
+Trades: 1   Win rate 0%   Avg trade -5.27%
 ```
 
 ## Open positions
 - DIVISLAB.NS: 10 @ 9969.98 (since 2026-11-03)
 - KOTAKBANK.NS: 217 @ 460.23 (since 2026-11-03)
 - ETERNAL.NS: 289 @ 345.57 (since 2026-11-03)
-- WIPRO.NS: 504 @ 198.10 (since 2026-11-03)
 - TRENT.NS: 32 @ 3044.52 (since 2026-11-03)
 - TATACONSUM.NS: 96 @ 1030.51 (since 2026-11-03)
 - POWERGRID.NS: 377 @ 264.78 (since 2026-11-03)
@@ -19,7 +19,8 @@ Nifty50 buy&hold: 10.1%   (the bar your bot must beat)
 - BHARTIARTL.NS: 48 @ 2061.33 (since 2026-11-04)
 
 ## Orders for tomorrow's open
-- SELL WIPRO.NS
+- BUY GAIL.NS
 
 ## Last 10 trades
-none yet
+     sym entry_date  exit_date  entry   exit  qty  pnl_pct
+WIPRO.NS 2026-11-03 2026-11-18  198.1 188.11  504    -5.27
