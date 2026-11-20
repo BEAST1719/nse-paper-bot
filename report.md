@@ -1,9 +1,9 @@
-# Paper report - 2026-11-18
+# Paper report - 2026-11-19
 
 ```
-Days simulated : 10 (~0.0 yrs)
-Strategy return: 4.4%   CAGR 196.2%   Max drawdown -0.3%
-Nifty50 buy&hold: 9.4%   (the bar your bot must beat)
+Days simulated : 11 (~0.0 yrs)
+Strategy return: 5.4%   CAGR 230.7%   Max drawdown -0.3%
+Nifty50 buy&hold: 10.7%   (the bar your bot must beat)
 Trades: 1   Win rate 0%   Avg trade -5.27%
 ```
 
@@ -17,9 +17,9 @@ Trades: 1   Win rate 0%   Avg trade -5.27%
 - DRREDDY.NS: 73 @ 1360.68 (since 2026-11-04)
 - DLF.NS: 141 @ 708.35 (since 2026-11-04)
 - BHARTIARTL.NS: 48 @ 2061.33 (since 2026-11-04)
+- GAIL.NS: 522 @ 190.83 (since 2026-11-19)
 
 ## Orders for tomorrow's open
-- BUY GAIL.NS
 
 ## Last 10 trades
      sym entry_date  exit_date  entry   exit  qty  pnl_pct
