@@ -1,9 +1,9 @@
-# Paper report - 2026-11-20
+# Paper report - 2026-11-23
 
 ```
-Days simulated : 12 (~0.0 yrs)
-Strategy return: 6.2%   CAGR 250.4%   Max drawdown -0.3%
-Nifty50 buy&hold: 11.9%   (the bar your bot must beat)
+Days simulated : 13 (~0.1 yrs)
+Strategy return: 4.9%   CAGR 152.7%   Max drawdown -1.2%
+Nifty50 buy&hold: 10.0%   (the bar your bot must beat)
 Trades: 1   Win rate 0%   Avg trade -5.27%
 ```
 
